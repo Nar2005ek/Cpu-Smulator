@@ -1,7 +1,3 @@
-# Project Name
-
-Short description of the project.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)

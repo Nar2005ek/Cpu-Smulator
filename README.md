@@ -14,7 +14,7 @@ Provide a detailed description of the project, its purpose, and features. Includ
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/project.git`
+1. Clone the repository: `git clone https://github.com/Nar2005ek/project.git`
 2. Navigate to the project directory: `cd project`
 3. Install the dependencies: `npm install`
 
